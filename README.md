@@ -1,3 +1,23 @@
+# Bus Route Finder
+
+The Bus Route Finder is a Laravel application that helps you find bus routes between two nearest bus stations. This application uses geographic coordinates (latitude and longitude) to identify bus stations and determine the optimal bus routes.
+
+## Table of Contents
+
+- [Prerequisites](#prerequisites)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Service Overview](#service-overview)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- [Laravel](https://laravel.com/docs/8.x/installation) installed on your local machine.
+- API keys for [Baato API](https://baato.io/), used for geographic data.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
